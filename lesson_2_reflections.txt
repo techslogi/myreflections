@@ -8,3 +8,8 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area is a temporary place where files get added, where 
 	they wait for commits to be made, including them.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	It allows me to see exactly which files and lines where modified, 
+	ensuring that there's only one logical change.
