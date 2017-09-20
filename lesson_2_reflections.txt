@@ -3,3 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	It creates a git repository on the specified folder. You need to do
 	this or else you won't be able to use git at all. Init creates the
 	necessary folders and files.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a temporary place where files get added, where 
+	they wait for commits to be made, including them.
