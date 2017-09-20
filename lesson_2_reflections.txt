@@ -23,3 +23,9 @@ How do the diagrams help you visualize the branch structure?
 
 	It works similar to a timeline, as in ever branch follows a specific
 	path as to where changes led to.
+	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Changes made in a branch get merged into another, creating one. We
+	represent it that way because the two became one, and the commits
+	aren't discarded.
