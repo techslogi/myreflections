@@ -29,3 +29,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	Changes made in a branch get merged into another, creating one. We
 	represent it that way because the two became one, and the commits
 	aren't discarded.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Manually merging files allow us to take more control over the changes made
+	on a project. If two users made changes to a file, if we change
+	it manually, we can keep newer changes etc.
